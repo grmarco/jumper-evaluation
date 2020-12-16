@@ -1,0 +1,5 @@
+tkinterhtml
+pandas
+numpy
+averell
+
